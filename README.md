@@ -22,18 +22,12 @@ Sou um estudante de programação apaixonado por aprender e crescer na área de 
 ---
 
 ## Tecnologias e ferramentas que eu uso
-<center style="display:flex; gap:15px; justify-content:center;">
-<div style="width:50px;">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
-</div>
-<div style="width:50px;">
-<img src="https://camo.githubusercontent.com/de3c651ca66e32f2437ab394eea862f9cf71b734066c6ce2767481aafd3bc4dd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"/>
-</div>
-<div style="width:50px;">
-<img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>
-</div>
+<div style="display:flex;">
+<img style="width:50px;" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
+<img style="width:50px;" src="https://camo.githubusercontent.com/de3c651ca66e32f2437ab394eea862f9cf71b734066c6ce2767481aafd3bc4dd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"/>
+<img style="width:50px;" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>
 
-</center>
+</div>
 
 ---
 
