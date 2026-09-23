@@ -1,52 +1,59 @@
-# Olá, eu sou Lucas 👋
+<div>
+  <img align="right" src="https://github.com/lucastonidev.png" width="220" style="border-radius: 16px; border: 4px solid #3b82f6;" alt="Lucas Toniato" />
+  
+  <h1>Hi there, I'm Lucas! 👋</h1>
+  
+  <a href="https://github.com/lucastonidev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=3B82F6&center=false&vCenter=false&width=435&lines=Always+learning;Software+Developer;Passionate+about+technology" alt="Typing SVG" />
+  </a>
 
-Sou um estudante de programação apaixonado por aprender e crescer na área de tecnologia. Este é o meu espaço no GitHub onde compartilho meus projetos, estudos e experimentos enquanto evoluo como desenvolvedor.
+  [![en](https://img.shields.io/badge/lang-en-green.svg)](README.md)
+  [![pt](https://img.shields.io/badge/lang-pt-red.svg)](README-pt.md)
+  
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lstr0209@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lucastonidev)
+
+</div>
+
+<br clear="all" />
 
 ---
 
-## Sobre mim
+## 👨‍💻 About me
 
-- 🎓 Estudante do curso de Tecnico de sistema para internet do IFES
-- 💻 Apaixonado por programação e tecnologia
-- 🌱 Atualmente aprendendo: Javascript
-- 📚 Meus objetivos: melhorar minhas habilidades, contribuir com projetos open source e criar soluções interessantes
-
----
-
-## O que você vai encontrar aqui
-
-- Projetos pessoais e exercícios práticos
-- Pequenos desafios e experimentos com código
-- Planejo no futuro atribuir minhas contribuição a comunidade open-source
+- 🎓 Student at **UFES**
+- 💻 Passionate about programming and technology
+- 🌱 Currently learning: **C**
+- 📚 My goals: Improve my skills, contribute to open-source projects, and build impactful solutions
 
 ---
 
-## Tecnologias e ferramentas que eu uso
-<div style="display:flex;">
-<img style="width:50px;" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"/>
-<img style="width:50px;" src="https://camo.githubusercontent.com/de3c651ca66e32f2437ab394eea862f9cf71b734066c6ce2767481aafd3bc4dd/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f76697375616c2d73747564696f2d636f64652d323031392e706e67"/>
-<img style="width:50px;" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"/>
+## 🛠️ Languages
 
+<div style="display:flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=js,html,css,c" />
+</div>
+
+## ⚙️ Frameworks & Tools
+
+<div style="display:flex; gap: 10px;">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,git,vscode,supabase,electron" />
 </div>
 
 ---
 
-## Resumo do meu perfil
+## 📈 GitHub Stats
 
-![Lucastoni.dev GitHub stats](https://github-readme-stats.vercel.app/api?username=lucastonidev&show_icons=true&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucastonidev&langs_count=8)
-
-## Como me encontrar
-
-- 📫 Email: lstr0209@gmail.com  
-- 🐙 GitHub: [github.com/lucastonidev](https://github.com/lucastonidev)  
+<div style="display: flex; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucastonidev&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucastonidev&langs_count=8&theme=radical&hide_border=true&layout=compact" />
+</div>
 
 ---
 
-## Vamos crescer juntos!
+## 🌱 Let's grow together!
 
-Se você também está aprendendo, fique à vontade para seguir, dar uma estrela nos projetos que gostar e até colaborar! Toda ajuda é bem-vinda.
+If you're also learning, feel free to follow me, star the projects you like, and even collaborate! All help is welcome.
 
----
-
-**Obrigado por visitar meu GitHub! 🚀**
+**Thanks for visiting my GitHub! 🚀**
